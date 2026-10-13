@@ -71,7 +71,7 @@ Das folgende Gantt-Diagramm zeigt die zeitliche Planung der Arbeitspakete
     -Meilenstein 5: Fehler wurden behoben
     -Meilenstein 6: Projekt wurde vorgestellt
 
-## Risikomanagement und Kommuniaktion
+## Risikomanagement und Kommunikation
 Sollten Probleme auftreten, so werden diese sofort in der Gruppe besprochen. Sollte ein anderes Teammitglied eine Lösungsidee haben, wird die Aufgabe an dieses Mitglied übertragen.
 Die Kommunikation dazu findet über eine WhatsApp-Gruppe sowie ein Kanban-Board statt. Das Kanban Board wird dabei für die Zuteilung von Aufgaben verwendet und die WhatsApp Gruppe dient zur Notfallkommunikation bei technischen Problemen, die schnelle Handlungen erfordern.
 
